@@ -1,4 +1,4 @@
-Column1,Hepatocyte,LSEC,PVEC,CVEC,Cholangiocyte,Kupffer,Stellate,Fibroblast,Mesothelial,B cell,Portal LAM,Other immune
+Column1,Hepatocyte,LSEC,PVEC,CVEC,Cholangiocyte,Kupffer cell,Stellate cell,Fibroblast,Mesothelial cell,B cell,Portal LAM,Other immune cells
 Adamtsl2,0,0,0,0,0,0,1,1,0,0,0,0
 Adgre1,0,0,0,0,0,1,0,0,0,0,1,0
 Adgrg6,0,1,1,0,0,0,0,0,0,0,0,0
